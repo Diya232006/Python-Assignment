@@ -12,7 +12,7 @@ lic = 500
 
 gross_salary = basic_salary + da + hra + ta
 net_salary = gross_salary - lic
-# Dummy line for 16 Jan 2026 commit
+#print
 print("Name:", name)
 print("Employee ID:", emp_id)
 print("Department:", department)
